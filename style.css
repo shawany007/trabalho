@@ -1,0 +1,12 @@
+body{
+  background-color: #bd150c;
+}
+
+h2{
+    height: 25px;
+    color: #ffff;
+   align-items: center;
+   justify-content: space-between;
+   flex-direction: row;
+   
+}
