@@ -1,12 +1,25 @@
 body{
+    padding: 190px;
   background-color: #bd150c;
+ 
 }
 
-h2{
-    height: 25px;
+h1{
+    height: 40px;
     color: #ffff;
    align-items: center;
    justify-content: space-between;
    flex-direction: row;
-   
+  
+}
+
+.btnsim{
+    padding: 15px;
+    color:#c70909;
+   margin: 30px;
+  border: none;
+ border-radius:25px;
+  font-size: 25px;
+background-color: #ffff;
+
 }
